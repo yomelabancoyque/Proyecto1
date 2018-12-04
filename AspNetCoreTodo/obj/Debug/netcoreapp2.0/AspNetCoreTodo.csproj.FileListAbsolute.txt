@@ -1,0 +1,52 @@
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\dot NET\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Administrador\Desktop\DotNet-Fest19\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\dot NET\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Administrador\Desktop\FLECHA DORADA\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
