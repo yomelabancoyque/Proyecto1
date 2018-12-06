@@ -41,3 +41,24 @@ table tr.done {
     text-decoration: line-through;
     color: #888;
 }
+
+.mc-mode {
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	display: none;
+	justify-content: center;
+	align-items: center;
+}
+.css1-contents {
+	height: 300px;
+	width: 500px;
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+	position: relative;
+    border-radius: 4px;
+  
+}

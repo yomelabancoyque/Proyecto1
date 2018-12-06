@@ -14,7 +14,7 @@
               <td>&#x2714;</td>
               <td>Item</td>
               <td>Due</td>
-              <td>Dirección</td>
+              <td>Address</td>
           </tr>
       </thead>
 
@@ -29,11 +29,21 @@
                 </td>
               <td>@item.Title</td>
               <td>@item.DueAt.Humanize()</td>
+              <td>@item.Address</td>
+              
+                  
+              <td>
+          
           </tr>
       }
   </table>
 
   <div class="panel-footer add-item-form">
     @await Html.PartialAsync("AddItemPartial", new TodoItem())
-  </div>
+
+  
+  
+	</div>
+</div>
+</div>
 </div>

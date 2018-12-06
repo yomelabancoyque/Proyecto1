@@ -5,11 +5,12 @@ using AspNetCoreTodo.Models;
 
 namespace AspNetCoreTodo.Services
 {
-    public interface ITodoItemService
+    public interface ITodoAddressService
     {
-        Task<TodoItem[]> GetIncompleteItemsAsync(ApplicationUser user);
-        Task<bool> AddItemAsync(TodoItem newItem, ApplicationUser user, string adress);
+        Task<TodoAddress[]> GetIncompleteAddressAsync(ApplicationUser user);
+        Task<bool> AddAddressAsync(TodoAddress newAddress, ApplicationUser user, string address);
         Task<bool> MarkDoneAsync(Guid id, ApplicationUser user);
+        
         
     }
 }

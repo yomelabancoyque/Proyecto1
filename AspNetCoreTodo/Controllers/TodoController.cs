@@ -22,7 +22,12 @@ namespace AspNetCoreTodo.Controllers
             _todoItemService = todoItemService;
             _userManager = userManager;
         }
-
+        public TodoController(ITodoAddressService todoaddressService,
+        UserManager<ApplicationUser> userManager)
+        {
+            _todoAddressService = todoAddressService;
+            _userManager = userManager;
+        }
         public async Task<IActionResult> Index()
         {
             var currentUser = await _userManager.GetUserAsync(User);
@@ -52,7 +57,7 @@ namespace AspNetCoreTodo.Controllers
             var currentUser = await _userManager.GetUserAsync(User);
             if (currentUser == null) return Challenge();
 
-            var successful = await _todoItemService.AddItemAsync(newItem, currentUser);
+            var successful = await _todoItemService.AddItemAsync(newItem, currentUser,"Date");
             if (!successful)
             {
                 return BadRequest("Could not add item.");
@@ -82,5 +87,27 @@ namespace AspNetCoreTodo.Controllers
             
             return RedirectToAction("Index");
         }
+
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> AddAddress(TodoAddress newAddress)
+        {
+            if (!ModelState.IsValid)
+            {
+                return RedirectToAction("Index");
+            }
+
+            var currentUser = await _userManager.GetUserAsync(User);
+            if (currentUser == null) return Challenge();
+
+            var successful = await _todoaddressService.AddAddressAsync(newAddres,currentUser);
+            if (!successful)
+            {
+                return BadRequest("Could not add address.");
+            }
+
+            return RedirectToAction("Index");
+        }
+        
+        }
     }
-}   
+   
